@@ -1,0 +1,17 @@
+{
+    "name": "Factura",
+    "alias": "factura",
+    "description": "",
+    "version": "v0.1",
+    "keywords": [],
+    "active": 1,
+    "order": 1,
+    "providers": [
+        "Modules\\Factura\\Providers\\FacturaServiceProvider",
+        "Modules\\Factura\\Providers\\RouteServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+        
+    ]
+}

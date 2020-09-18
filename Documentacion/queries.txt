@@ -1,0 +1,103 @@
+Resistencia = ((Fuerza*1000)/9.8067)/(Area)
+
+( (fuerza_aplicada×1000)÷9,8067 )÷(3,141592×((diametro÷2)²))
+============================
+	QUERY
+
+SELECT 
+	REPLACE(REPLACE(carga_aplicada, '.',''), ',','.') AS carga_aplicada, 
+	REPLACE(diametro, ',','.') as diametro,
+	REPLACE(resistencia, '.', '') AS resistencia,
+	cast(( ((REPLACE(REPLACE(carga_aplicada, '.',''), ',','.')*1000)/9.8067)/(PI()*(REPLACE(diametro, ',','.')/2)*(REPLACE(diametro, ',','.')/2)) ) as decimal(10,2))  as resistencia_calculada 
+FROM probeti_tmp.remision__detalle
+
+
+cast( (((carga_aplicada*1000)/9.8067)/(PI()*(diametro/2)*(diametro/2)) ) as decimal(10,3) )  as resistencia_calculada 
+
+
+
+
+
+
+
+
+
+
+
+
+
+QUERY DETALLE_REMISION CON RESISTENCIA, RESISTENCIA CALCULADA EN RUN TIME Y DIFERENCIA DE AMBAS 
+=================================================================================================
+SELECT  id,
+		fck, 
+		carga_aplicada, 
+		resistencia,
+        cast( (((carga_aplicada*1000)/9.8067)/(PI()*(diametro/2)*(diametro/2)) ) as decimal(10,3) )  as resistencia_calculada ,
+        (cast( (((carga_aplicada*1000)/9.8067)/(PI()*(diametro/2)*(diametro/2)) ) as decimal(10,3) ) - resistencia) as diff,
+        diametro, 
+        altura, 
+        peso, 
+        tipo_rotura 
+FROM 
+	probeti.remision__detalle
+    
+WHERE 
+	(cast( (((carga_aplicada*1000)/9.8067)/(PI()*(diametro/2)*(diametro/2)) ) as decimal(10,3) ) - resistencia) > 1
+
+
+============================================================================================================
+CALCULO PORCENTAJE (relacion fck y resistencia)
+$porcentaje = ($resistencia*100)/$fck_teorico;
+
+cast( ((resistencia*100)/fck) as decimal(10,2) )  as porcentaje,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SELECT  
+		id,
+		fck, 
+		carga_aplicada, 
+		resistencia,
+        cast( (((carga_aplicada*1000)/9.8067)/(PI()*(diametro/2)*(diametro/2)) ) as decimal(10,3) )  as resistencia_calculada ,
+        (cast( (((carga_aplicada*1000)/9.8067)/(PI()*(diametro/2)*(diametro/2)) ) as decimal(10,3) ) - resistencia) as diferencia,
+        cast( ((resistencia*100)/fck) as decimal(10,2) )  as porcentaje,
+        ( (peso/( PI() * POW( (diametro/2) , 2) * altura ))/1000 ) as peso_especifico,
+        diametro, 
+        altura, 
+        peso, 
+        tipo_rotura,
+        created_at
+FROM 
+	probeti.remision__detalle
+    
+#WHERE 
+#	(cast( (((carga_aplicada*1000)/9.8067)/(PI()*(diametro/2)*(diametro/2)) ) as decimal(10,3) ) - resistencia) > 1
+
+
+#UPDATE remision__detalle SET carga_aplicada = REPLACE(carga_aplicada, ',','.')
+#UPDATE remision__detalle SET resistencia = REPLACE(resistencia, ',','.')
+#UPDATE remision__detalle SET diametro = REPLACE(diametro, ',','.')

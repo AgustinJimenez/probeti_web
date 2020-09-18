@@ -1,0 +1,449 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
+	<META NAME="CREATED" CONTENT="20120615;105300000000000">
+	<META NAME="CHANGED" CONTENT="20120620;103600000000000">
+	<META NAME="AppVersion" CONTENT="15.0000">
+	<META NAME="ContentTypeId" CONTENT="0x010100DE95A0C693CEB341887D38A4A2B58B45040072C752107C5A7B47AA91A1EE638E6F1F">
+	<META NAME="DocSecurity" CONTENT="0">
+	<META NAME="HyperlinksChanged" CONTENT="false">
+	<META NAME="LinksUpToDate" CONTENT="false">
+	<META NAME="ScaleCrop" CONTENT="false">
+	<META NAME="ShareDoc" CONTENT="false">
+	<STYLE TYPE="text/css">
+	<!--
+		@page { size: 8.5in 11in; margin-left: 0.75in; margin-right: 0.75in; margin-top: 0.6in; margin-bottom: 0.5in }
+		@page:first { }
+		P { margin-bottom: 0.08in; direction: ltr; widows: 2; orphans: 2 }
+		P.western { so-language: en-US }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="en-US" DIR="LTR">
+<DIV TYPE=HEADER>
+	<TABLE WIDTH=100% CELLPADDING=7 CELLSPACING=0>
+		<COL WIDTH=122*>
+		<COL WIDTH=134*>
+		<TR VALIGN=TOP>
+			<TD WIDTH=48% HEIGHT=29 STYLE="border: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.03in; margin-bottom: 0.03in">
+				[Compañía]</P>
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.03in; margin-bottom: 0.03in">
+				[Dirección, ciudad, código postal]</P>
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.03in"><SPAN LANG="en-US">Tel.</SPAN>
+				[Teléfono]  <B>Fax</B> [Fax]</P>
+			</TD>
+			<TD WIDTH=52% STYLE="border: none; padding: 0in">
+				<P LANG="en-US" ALIGN=RIGHT STYLE="margin-top: 0.03in; margin-bottom: 0.03in">
+				<IMG SRC="i_ec2fac63d9926eab_html_8490d0be.png" NAME="Picture 4" ALIGN=BOTTOM WIDTH=187 HEIGHT=49 BORDER=0></P>
+				<P LANG="en-US" ALIGN=RIGHT STYLE="margin-top: 0.03in"><BR>
+				</P>
+			</TD>
+		</TR>
+	</TABLE>
+	<P LANG="en-US" ALIGN=RIGHT STYLE="margin-top: 0.03in; margin-bottom: 1.26in">
+	
+	</P>
+</DIV>
+<TABLE WIDTH=100% CELLPADDING=7 CELLSPACING=0 BGCOLOR="#7e97ad" STYLE="page-break-before: always">
+	<COL WIDTH=128*>
+	<COL WIDTH=128*>
+	<TR>
+		<TD WIDTH=50% BGCOLOR="#7e97ad" STYLE="border: none; padding: 0in">
+			<P LANG="en-US" ALIGN=LEFT STYLE="margin-top: 0.08in; text-transform: uppercase"><A NAME="_GoBack"></A>
+			<FONT COLOR="#ffffff"><FONT FACE="Calibri, serif"><FONT SIZE=4><FONT COLOR="#ffffff"><FONT FACE="Calibri, serif">Factura
+			</FONT></FONT>[n.º]</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=50% BGCOLOR="#7e97ad" STYLE="border: none; padding: 0in">
+			<P LANG="en-US" ALIGN=RIGHT STYLE="margin-top: 0.08in; text-transform: uppercase">
+			<FONT COLOR="#ffffff"></FONT></P>
+		</TD>
+	</TR>
+</TABLE>
+<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.03in; margin-bottom: 0.03in">
+<BR><BR>
+</P>
+<TABLE WIDTH=100% CELLPADDING=7 CELLSPACING=0>
+	<COL WIDTH=75*>
+	<COL WIDTH=75*>
+	<COL WIDTH=106*>
+	<TR VALIGN=TOP>
+		<TD WIDTH=29% STYLE="border-top: none; border-bottom: 1px solid #7e97ad; border-left: none; border-right: none; padding: 0in">
+			<P LANG="en-US" STYLE="margin-top: 0.03in; text-transform: uppercase">
+			<FONT COLOR="#7e97ad"><FONT FACE="Calibri, serif"><FONT COLOR="#7e97ad"><FONT FACE="Calibri, serif">Facturar
+			a</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=29% STYLE="border-top: none; border-bottom: 1px solid #7e97ad; border-left: none; border-right: none; padding: 0in">
+			<P LANG="en-US" STYLE="margin-top: 0.03in; text-transform: uppercase">
+			<FONT COLOR="#7e97ad"><FONT FACE="Calibri, serif"><FONT COLOR="#7e97ad"><FONT FACE="Calibri, serif">Enviar
+			a	</FONT></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=41% STYLE="border-top: none; border-bottom: 1px solid #7e97ad; border-left: none; border-right: none; padding: 0in">
+			<P LANG="en-US" STYLE="margin-top: 0.03in; text-transform: uppercase">
+			<FONT COLOR="#7e97ad"><FONT FACE="Calibri, serif"><FONT COLOR="#7e97ad"><FONT FACE="Calibri, serif">Instrucciones</FONT></FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=29% STYLE="border-top: 1px solid #7e97ad; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.03in; margin-bottom: 0.03in">
+			[Nombre]</P>
+			<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.03in; margin-bottom: 0.03in">
+			[Dirección]</P>
+			<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.03in">[Ciudad,
+			código postal]</P>
+		</TD>
+		<TD WIDTH=29% STYLE="border-top: 1px solid #7e97ad; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.03in">Igual
+			que el destinatario</P>
+		</TD>
+		<TD WIDTH=41% STYLE="border-top: 1px solid #7e97ad; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+			<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.03in"><FONT COLOR="#595959"><FONT FACE="Cambria, serif">[Agregar
+			instrucciones adicionales]</FONT></FONT></P>
+		</TD>
+	</TR>
+</TABLE>
+<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.03in; margin-bottom: 0.03in">
+<BR><BR>
+</P>
+<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.03in; margin-bottom: 0.03in">
+<BR><BR>
+</P>
+<TABLE WIDTH=100% CELLPADDING=7 CELLSPACING=0>
+	<COL WIDTH=51*>
+	<COL WIDTH=102*>
+	<COL WIDTH=51*>
+	<COL WIDTH=51*>
+	<THEAD>
+		<TR VALIGN=TOP>
+			<TD WIDTH=20% BGCOLOR="#7e97ad" STYLE="border-top: none; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in; font-variant: normal">
+				<FONT SIZE=2><FONT COLOR="#ffffff"><FONT FACE="Calibri, serif">Cantidad</FONT></FONT></FONT></P>
+			</TD>
+			<TD WIDTH=40% BGCOLOR="#7e97ad" STYLE="border-top: none; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in; font-variant: normal">
+				<FONT SIZE=2><FONT COLOR="#ffffff"><FONT FACE="Calibri, serif">Descripción</FONT></FONT></FONT></P>
+			</TD>
+			<TD WIDTH=20% BGCOLOR="#7e97ad" STYLE="border-top: none; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in; font-variant: normal">
+				<FONT SIZE=2><FONT COLOR="#ffffff"><FONT FACE="Calibri, serif">Precio
+				unitario</FONT></FONT></FONT></P>
+			</TD>
+			<TD WIDTH=20% BGCOLOR="#7e97ad" STYLE="border-top: none; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in; font-variant: normal">
+				<FONT SIZE=2><FONT COLOR="#ffffff"><FONT FACE="Calibri, serif">Total</FONT></FONT></FONT></P>
+			</TD>
+		</TR>
+	</THEAD>
+	<TBODY>
+		<TR VALIGN=TOP>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=40% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+		</TR>
+		<TR VALIGN=TOP>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=40% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+		</TR>
+		<TR VALIGN=TOP>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=40% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+		</TR>
+		<TR VALIGN=TOP>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=40% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+		</TR>
+		<TR VALIGN=TOP>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=40% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+		</TR>
+		<TR VALIGN=TOP>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=40% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+		</TR>
+		<TR VALIGN=TOP>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=40% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+		</TR>
+		<TR VALIGN=TOP>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=40% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+		</TR>
+		<TR VALIGN=TOP>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=40% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+		</TR>
+		<TR VALIGN=TOP>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #a6a6a6; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=40% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #a6a6a6; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #a6a6a6; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+			<TD WIDTH=20% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #a6a6a6; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+		</TR>
+	</TBODY>
+</TABLE>
+<P LANG="en-US" STYLE="margin-bottom: 0in"><BR>
+</P>
+<DIV ALIGN=RIGHT>
+	<TABLE WIDTH=50% CELLPADDING=7 CELLSPACING=0>
+		<COL WIDTH=154*>
+		<COL WIDTH=102*>
+		<TR VALIGN=TOP>
+			<TD WIDTH=60% STYLE="border-top: none; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" STYLE="margin-top: 0.06in; text-transform: uppercase">
+				<FONT COLOR="#7e97ad"><FONT FACE="Calibri, serif"><FONT COLOR="#7e97ad"><FONT FACE="Calibri, serif">Subtotal</FONT></FONT></FONT></FONT></P>
+			</TD>
+			<TD WIDTH=40% STYLE="border-top: none; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+		</TR>
+		<TR VALIGN=TOP>
+			<TD WIDTH=60% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" STYLE="margin-top: 0.06in; text-transform: uppercase">
+				<FONT COLOR="#7e97ad"><FONT FACE="Calibri, serif"><FONT COLOR="#7e97ad"><FONT FACE="Calibri, serif">Impuestos
+				sobre las ventas</FONT></FONT></FONT></FONT></P>
+			</TD>
+			<TD WIDTH=40% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #d9d9d9; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+		</TR>
+		<TR VALIGN=TOP>
+			<TD WIDTH=60% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #a6a6a6; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" STYLE="margin-top: 0.06in; text-transform: uppercase">
+				<FONT COLOR="#7e97ad"><FONT FACE="Calibri, serif"><FONT COLOR="#7e97ad"><FONT FACE="Calibri, serif">Envío
+				y transporte</FONT></FONT></FONT></FONT></P>
+			</TD>
+			<TD WIDTH=40% STYLE="border-top: 1px solid #d9d9d9; border-bottom: 1px solid #a6a6a6; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+		</TR>
+		<TR VALIGN=TOP>
+			<TD WIDTH=60% STYLE="border-top: 1px solid #a6a6a6; border-bottom: 1px solid #a6a6a6; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" STYLE="margin-top: 0.06in; text-transform: uppercase">
+				<FONT COLOR="#7e97ad"><FONT FACE="Calibri, serif"><FONT COLOR="#7e97ad"><FONT FACE="Cambria, serif"><SPAN LANG="en-US">Total
+				a pagar el </SPAN></FONT></FONT><FONT COLOR="#808080">Seleccionar
+				fecha]</FONT></FONT></FONT></P>
+			</TD>
+			<TD WIDTH=40% STYLE="border-top: 1px solid #a6a6a6; border-bottom: 1px solid #a6a6a6; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" ALIGN=RIGHT STYLE="margin-top: 0.06in">
+				<BR>
+				</P>
+			</TD>
+		</TR>
+		<TR VALIGN=BOTTOM>
+			<TD WIDTH=60% STYLE="border-top: 1px solid #a6a6a6; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" STYLE="margin-top: 0.06in"><FONT COLOR="#595959"><FONT FACE="Cambria, serif">Gracias
+				por ser cliente nuestro.</FONT></FONT></P>
+			</TD>
+			<TD WIDTH=40% STYLE="border-top: 1px solid #a6a6a6; border-bottom: none; border-left: none; border-right: none; padding: 0in">
+				<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.06in"><BR>
+				</P>
+			</TD>
+		</TR>
+	</TABLE>
+</DIV>
+<P LANG="en-US" CLASS="western" STYLE="margin-top: 0.03in; margin-bottom: 0.03in">
+<BR><BR>
+</P>
+</BODY>
+</HTML>

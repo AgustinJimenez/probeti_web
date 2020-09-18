@@ -1,0 +1,24 @@
+{
+    "name": "Remision",
+    "alias": "remision",
+    "description": "",
+    "version": "v0.1",
+    "keywords": [],
+    "active": 1,
+    "order": 1,
+    "providers": [
+        "Modules\\Remision\\Providers\\RemisionServiceProvider",
+        "Modules\\Remision\\Providers\\RouteServiceProvider"
+    ],
+    "widgets": [
+        "Modules\\Remision\\Widgets\\ProbetasEnsayadasWidget",
+        "Modules\\Remision\\Widgets\\ProbetasFacturadasWidget",
+        "Modules\\Remision\\Widgets\\ProbetasPorCobrarWidget",
+        "Modules\\Remision\\Widgets\\ProbetasPorEnsayarWidget",
+        "Modules\\Remision\\Widgets\\ProbetasRetiradasWidget"
+    ],
+    "aliases":{},
+    "files": [
+        
+    ]
+}
